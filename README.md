@@ -2,11 +2,11 @@
 
 A responsive, static personal portfolio presenting my current digital-product work, product QA and operations experience, alongside earlier Power BI and SQL projects.
 
-**Website:** [imranhoosen.github.io](https://ihoosen23.github.io/imranhoosen.github.io) *(GitHub Pages deployment, if enabled)*
+**Website:** [imranhoosen.github.io](https://ihoosen23.github.io/imranhoosen.github.io) (live GitHub Pages site)
 
 ## Featured areas
 
-- **Current work:** Listing Genius, Vellen / TradieQuote AI and Rosewood Digital, described without exposing private repositories.
+- **Current work:** Listing Genius and Rosewood Digital, described without exposing private repositories.
 - **Earlier analytics projects:** AdventureWorks Cycles, patient waiting lists, airline analysis, SQL data cleaning, exploratory analysis and COVID-19 vaccination analysis.
 - **Background:** Operations, administration, research, manual QA and AI-assisted product workflows.
 
