@@ -1,21 +1,19 @@
-# Imran Hoosen — Analytics Portfolio Website
+# Imran Hoosen — Personal Portfolio
 
-This public repository contains an **earlier personal portfolio website** focused on Power BI dashboards and SQL analysis. It uses the [Massively template by HTML5 UP](https://html5up.net/massively).
+A responsive, static personal portfolio presenting my current digital-product work, product QA and operations experience, alongside earlier Power BI and SQL projects.
 
-## Projects featured on the website
+**Website:** [imranhoosen.github.io](https://imranhoosen.github.io) *(GitHub Pages deployment, if enabled)*
 
-- **AdventureWorks Cycles:** Sales dashboard and business-intelligence reporting. [Project files](https://github.com/Ihoosen23/Portfolio/tree/main/Adventure)
-- **Patient waiting-list dashboard:** Waiting-list status and monthly trends. [Project files](https://github.com/Ihoosen23/Portfolio/tree/main/Patient)
-- **Airline dashboard:** Flight delays and cancellations reporting. [Project files](https://github.com/Ihoosen23/Portfolio/tree/main/Airport)
-- **SQL data cleaning:** Data preparation for analysis. [SQL file](https://github.com/Ihoosen23/Portfolio/blob/main/Data%20Cleaning.sql)
-- **SQL exploratory analysis:** Queries and exploratory analysis. [SQL file](https://github.com/Ihoosen23/Portfolio/blob/main/Exploratory%20Data%20Analysis.sql)
+## Featured areas
 
-## Current professional profile
+- **Current work:** Listing Genius, Vellen / TradieQuote AI and Rosewood Digital, described without exposing private repositories.
+- **Earlier analytics projects:** AdventureWorks Cycles, patient waiting lists, airline analysis, SQL data cleaning, exploratory analysis and COVID-19 vaccination analysis.
+- **Background:** Operations, administration, research, manual QA and AI-assisted product workflows.
 
-My work has expanded beyond analytics into digital product direction, user research, manual QA, operations and AI-assisted development workflows through [Rosewood Digital](https://rosewooddigital.co.nz).
+## Technical notes
 
-For a current overview, see my [GitHub profile](https://github.com/Ihoosen23) and [main portfolio README](https://github.com/Ihoosen23/Portfolio).
+The website is a single-page, responsive static HTML/CSS site. It requires no build step, external JavaScript, analytics or third-party fonts. The original template assets and images remain in the repository for preservation, but the new home page does not depend on them.
 
-## Repository scope
+## Project links
 
-This repository contains a legacy static website. It is kept as an example of earlier analytics work; it should not be treated as a current full representation of my experience. The website's existing project files and design have been preserved.
+The original analytics project files remain in [my Portfolio repository](https://github.com/Ihoosen23/Portfolio). My current product projects remain private where appropriate. More about Rosewood Digital: [rosewooddigital.co.nz](https://rosewooddigital.co.nz).
