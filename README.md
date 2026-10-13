@@ -2,7 +2,7 @@
 
 A responsive, static personal portfolio presenting my current digital-product work, product QA and operations experience, alongside earlier Power BI and SQL projects.
 
-**Website:** [imranhoosen.github.io](https://imranhoosen.github.io) *(GitHub Pages deployment, if enabled)*
+**Website:** [imranhoosen.github.io](https://ihoosen23.github.io/imranhoosen.github.io) *(GitHub Pages deployment, if enabled)*
 
 ## Featured areas
 
